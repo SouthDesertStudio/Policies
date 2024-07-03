@@ -1,2 +1,2 @@
 [EN] Check our latest Privacy Policy.
-[ES] Comprueba en este repositorio nuestra Política de Privacidad.
+[ES] Comprueba nuestra Política de Privacidad actualizada.
